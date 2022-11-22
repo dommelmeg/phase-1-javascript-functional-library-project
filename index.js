@@ -1,0 +1,1 @@
+const myEach = (collectionOfData, alert) => collectionOfData.forEach(item => alert(item))
